@@ -1,0 +1,10 @@
+Website Crawling is the automated fetching of web pages by a software process, the purpose of which is to index the content of websites so they can be searched. 
+The crawler analyzes the content of a page looking for links to the next pages to fetch and index.
+There are two common types of crawls that get content from a website are:
+	Site crawls are an attempt to crawl an entire site at one time, starting with the home page. 
+It will grab links from that page, to continue crawling the site to other content of the site. 
+This is often called “Spidering”.
+
+	Page crawls, which are the attempt by a crawler to crawl a single page or blog post.
+To access to those information the crawler have to fill the forms with a valid data, for this reason we propose a new approach which use SQLI technique in order to find the most
+promising keywords of a specific domain for automatic form submission.
